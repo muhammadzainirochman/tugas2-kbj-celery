@@ -88,4 +88,4 @@ Buka terminal lain dan kirimkan tugas ke broker:
 source myvenv/bin/activate
 python producer.py
 ```
-> Tersedia dua mode: demo 3 skema pesan dan *Input Generator Batch* (menghasilkan transaksi berturut-turut secara otomatis).
+
