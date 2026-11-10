@@ -38,12 +38,3 @@ Proyek ini menguji tiga skema penanganan pesan pada AMQP/RabbitMQ yang dikonfigu
 
 ---
 
-## 3. Langkah Menjalankan Proyek
-
-**1. Persiapan Environment**
-
-```bash
-python -m venv myenv
-source myenv/bin/activate
-pip install -r requirements.txt
-```
